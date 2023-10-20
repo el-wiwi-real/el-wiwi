@@ -1465,10 +1465,6 @@ hash = "f6dfb523f158c40358b7050b996a773aed56079423bb587f103a63ec8c3316d6"
 metafile = true
 
 [[files]]
-file = "mods/originstweaks-1.15.4.jar"
-hash = "2ecf0c773ab8c088a5f688e595d6d3c1e1efb828fa3011d58796b3cf942243af"
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d4032db7e51e35e1592e07aeb9306e408c3ba8cff0699dced6a65cb463ee3202"
 metafile = true
