@@ -1454,11 +1454,6 @@ hash = "f1c5339de1b7ffa1d2e8b8e0c4d08802de33dc47dd9cd19c1b997f959e5c308c"
 metafile = true
 
 [[files]]
-file = "mods/noclip.pw.toml"
-hash = "1f7bfbd081ff2d6452801c11bca4554174261bb41e15008bb4077251cc61b199"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "f3b8eeb93d67d7571b3d2d45eb9eca6abfa4b051dfd29c16af7655ba19fc9f37"
 metafile = true
