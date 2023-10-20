@@ -193,22 +193,6 @@ file = "config/deeperdarker.json5"
 hash = "8cfe72ec7a3a2b927a497379ba4830c0491fd07ca539b1435828ff34400a5a31"
 
 [[files]]
-file = "config/diggusmaximus/blacklist.json5"
-hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
-
-[[files]]
-file = "config/diggusmaximus/config.json5"
-hash = "4b72fed28a24f6d3f7b4ed0dc5f87c4449f6eade69bf365bb77ad44209d97a6e"
-
-[[files]]
-file = "config/diggusmaximus/excavatingshapes.json5"
-hash = "470a5630aa5b09d4d114ea2b222d5c96533f0b877c96f64e7f8fcfdebe8c09b4"
-
-[[files]]
-file = "config/diggusmaximus/grouping.json5"
-hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
-
-[[files]]
 file = "config/dustrial_decor.json"
 hash = "528b861651a393d74b509f2279b05682b166e423ed4eb3daf0dc4d66015e4550"
 
@@ -727,11 +711,6 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "9012673e65b555deb5e2fa77db9cc1b73c85eb312fa5e639f510e49ad08988d0"
-metafile = true
-
-[[files]]
-file = "mods/diggus-maximus.pw.toml"
-hash = "714fcc5e778a6e8d18ddbe635604717109cd8cb2d7ba7a1d1a50354c97c5507a"
 metafile = true
 
 [[files]]
