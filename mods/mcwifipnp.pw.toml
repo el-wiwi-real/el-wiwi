@@ -1,6 +1,6 @@
 name = "LAN World Plug-n-Play"
 filename = "mcwifipnp-1.6.2-1.19.2-quilt.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
