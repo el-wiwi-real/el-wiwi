@@ -1014,10 +1014,6 @@ hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
 
 [[files]]
-file = "mods/SmartBrainLib-fabric-1.19.2-1.9.jar"
-hash = "91435a8cebae49107205ee3d2f4a43f4b21c174a778ded9a34d96543afd673f8"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "c8542e114cb9362c1989305fbcc572a5b1019e1bda14b7bb6232a8ab99cebe27"
 metafile = true
@@ -1083,8 +1079,9 @@ hash = "121e0dcab9fbda6fad27474c2b5de6000f65001d79e13f5856456a79b7cbc2bd"
 metafile = true
 
 [[files]]
-file = "mods/bclib-2.1.7.jar"
-hash = "c67a1cff3a9e7174be1822b4d4e5dd4d86495e57f3d3bea0c1bb5e3086ad4220"
+file = "mods/bclib.pw.toml"
+hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
+metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
@@ -1137,8 +1134,9 @@ hash = "3d89448c7689702ee772d9d1a5119dc7f47facdf8adf0d780804fda257d6671a"
 metafile = true
 
 [[files]]
-file = "mods/cc-fabric-energy-0.1+mc1.19.2.jar"
-hash = "4500de8a78fcb10b999396487448f7bdd4883e281442dd2b49817b86eaf68551"
+file = "mods/cc-fabric-energy.pw.toml"
+hash = "8b2543f61a55082b11f6e3d5644aeed40e26575bb8ebacbd838d2b5020ad6485"
+metafile = true
 
 [[files]]
 file = "mods/cc-restitched.pw.toml"
@@ -1181,8 +1179,9 @@ hash = "988e6ca306ef8c9d84a0e0d4098359d40338eccb83419977ae511979e1804941"
 metafile = true
 
 [[files]]
-file = "mods/create-track-map-1.4+mc1.19.2-fabric-create-0.5.1.jar"
-hash = "9f37b63e25f4874d4cfdd0fd15dc266859a7b5651efbf17b38291f26cea7469b"
+file = "mods/create-track-map.pw.toml"
+hash = "11dcef38596a6c3594f8c07ad8fb1b4dfe4d3b48ff34c4394811b7ebb366f640"
+metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
@@ -1231,12 +1230,13 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "59e0df85cce722ef0fe00c237fbc7febb57e7ea81d0821b1e5a9c1f44e60c1d7"
+hash = "462d8388d0c7bcf9e876d552fe6b0f9649758b666b888255c7b7b8e99a0a08a9"
 metafile = true
 
 [[files]]
-file = "mods/emicompat-2.0.3.jar"
-hash = "1aa03b38655bd2cc2c508075540290c8640eac71ed8ea5dedd6f819fac01bf95"
+file = "mods/emicompat.pw.toml"
+hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
+metafile = true
 
 [[files]]
 file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
@@ -1257,10 +1257,6 @@ metafile = true
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "470e5bf7c8d228158620d00e9da85b094002cce7d4429ce1403f3829feef2ba5"
 metafile = true
-
-[[files]]
-file = "mods/fallingleaves-1.13.0+1.19.2.jar"
-hash = "ea184fde41e7a5b14f9feea71f1a8964f6c9b6e4e6289d82196a88675b240796"
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
@@ -1293,8 +1289,9 @@ hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
 metafile = true
 
 [[files]]
-file = "mods/gravity-api-1.0.3-1.19.2.jar"
-hash = "07c85ef43613970cd081000a5323a42985e2dd9382892be31c22948b4c55cd2e"
+file = "mods/gravity-api.pw.toml"
+hash = "96936089f965ded979c8caaec787969f931ec27bf1b156357953933560fb916f"
+metafile = true
 
 [[files]]
 file = "mods/happiness-is-a-warm-gun.pw.toml"
@@ -1332,12 +1329,13 @@ hash = "67a24992a28236ac55b0cf5500b52d2370b006ed6116dcb1eaaad94f1bfcfd12"
 metafile = true
 
 [[files]]
-file = "mods/journeymap-1.19.2-5.9.7-fabric.jar"
-hash = "9f789ac3dbf904c233a1f203f489958acff242130607198b3a1a615734263ade"
-
-[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "986231a2170d9b4067406f3856917892c05154589cc362741340832fb69fc1a0"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "9596dd55a4d88a1178ec46382d1642fbb442743217c66fdc8874be4232d17e2a"
 metafile = true
 
 [[files]]
@@ -1426,8 +1424,9 @@ hash = "cdcd92e205c3ba2c722656bd09e94d7e46dc66ea68dbe3222131bb39eb0ac2b9"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib-quilt-1.0.0-patch1.jar"
-hash = "c2ef9dc15e6e93b8b922717e075a8a61d00688c411449676b87e39d3ba161513"
+file = "mods/midnightlib.pw.toml"
+hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
@@ -1500,8 +1499,9 @@ hash = "a20da06b37ff4fd62465247f42a5a63f5ca507e081e50a97b52bf7afb69135dc"
 metafile = true
 
 [[files]]
-file = "mods/quilt_loading_screen-4.0.0+1.19.jar"
-hash = "6113f48d93a1dc254739852677dae52b66e8bcced51a79fc3ebedf681f98d74b"
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
+metafile = true
 
 [[files]]
 file = "mods/realisticcities.pw.toml"
@@ -1534,13 +1534,19 @@ hash = "397bf9fd4f192aaba17f0ac5d5b5765f47ae3974cef709823ba58e7cc0ca7a00"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-radio.pw.toml"
+hash = "51f2b23c7fd487792226b0f8cfce5057c0f42cfe870a99a22e4475fb9eb4cb37"
+metafile = true
+
+[[files]]
 file = "mods/simplepipes.pw.toml"
 hash = "46a4fddfb6aab74740140e5e47fab4ac06a15a28409844895d3185baf03c6a70"
 metafile = true
 
 [[files]]
-file = "mods/simpleradio-1.19.2-1.0.2.jar"
-hash = "c4a434e809648c996c26f8b1a55361344a8e3c56b424ea1fbc18081c013b6275"
+file = "mods/smartbrainlib.pw.toml"
+hash = "57e597fe60b83fe11787bcf048eb4f0e4d30bd90f19be574a85ceaafa3dd3c98"
+metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
