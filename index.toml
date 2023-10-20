@@ -1583,8 +1583,8 @@ hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
 metafile = true
 
 [[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "2e31c9e4d67548534c7344f1158e932e7a9b72ba25554f248f162bb5efc6be35"
+file = "mods/wavey-capes.pw.toml"
+hash = "8a4a4e24b30d401e195211153879287b4e2bb1bbb3e56d904ca84bffbecd7f99"
 metafile = true
 
 [[files]]
