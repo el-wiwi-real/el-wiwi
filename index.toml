@@ -890,11 +890,6 @@ hash = "70d7f9b16fffbf8999a373d3b008e6b0b7b782b9de14575826a0b2c86797636b"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "2b8e1f537882af7a6e5d4a933e6fffd0c12531373112eb11aba0c9a846a2f6dc"
 metafile = true
