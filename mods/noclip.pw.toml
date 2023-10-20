@@ -1,0 +1,13 @@
+name = "noclip"
+filename = "noclip-1.1.5+1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yDx6WroB/versions/28Zh7QS0/noclip-1.1.5%2B1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "dc66973f0d499d501101903c528743a15b528876"
+
+[update]
+[update.modrinth]
+mod-id = "yDx6WroB"
+version = "28Zh7QS0"
