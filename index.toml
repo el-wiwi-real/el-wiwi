@@ -1547,11 +1547,6 @@ file = "mods/simpleradio-1.19.2-1.0.2.jar"
 hash = "c4a434e809648c996c26f8b1a55361344a8e3c56b424ea1fbc18081c013b6275"
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "3842b145ba1cc33a207a846e306b5e7ee46b78f7687b1bf3ab1a6968d90477af"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "041586c4b0119445ffadaf3a16c6cd4092f91a060b160ce6cbc16d560a65a5c8"
 metafile = true
@@ -1589,11 +1584,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
-metafile = true
-
-[[files]]
-file = "mods/wavey-capes.pw.toml"
-hash = "8a4a4e24b30d401e195211153879287b4e2bb1bbb3e56d904ca84bffbecd7f99"
 metafile = true
 
 [[files]]
