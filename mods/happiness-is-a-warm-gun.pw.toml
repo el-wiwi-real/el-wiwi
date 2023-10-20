@@ -1,0 +1,13 @@
+name = "Happiness (is a) Warm Gun"
+filename = "HWGMod-1.19.2-1.4.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "582a8cded6fe3b713b42d3443fe6d2c36556a39d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4541974
+project-id = 448106

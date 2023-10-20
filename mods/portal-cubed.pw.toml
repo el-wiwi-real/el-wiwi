@@ -1,0 +1,13 @@
+name = "Portal Cubed"
+filename = "portal_cubed-2.3.0+alpha-rev.a5fa7af.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43b2dca533d80e5441f0265ab44309ff2089a99d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4326294
+project-id = 460490

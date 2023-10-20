@@ -1,0 +1,13 @@
+name = "Realistic Cities"
+filename = "realisticcities-0.4-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f65912fab2360d09e8b35d7b4ea08fd48bb6222"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4795742
+project-id = 842575

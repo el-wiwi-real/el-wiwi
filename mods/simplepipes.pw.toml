@@ -1,0 +1,13 @@
+name = "Simple BC Pipes"
+filename = "simplepipes-all-0.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9eac1e186641b96c16b3c0b9ed1a1b52bf811b71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4465017
+project-id = 318004

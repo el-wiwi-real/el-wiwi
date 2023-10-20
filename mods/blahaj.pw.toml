@@ -1,0 +1,13 @@
+name = "Blåhaj"
+filename = "blahaj-quilt-1.19-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f199d25bef8b95ddb05da41ed879d8d4ffc491bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4595288
+project-id = 838703

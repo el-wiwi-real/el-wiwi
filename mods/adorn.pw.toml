@@ -1,0 +1,13 @@
+name = "Adorn"
+filename = "Adorn-3.9.1+1.19.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cec969be7bcd93e26ed127e057b68da80c687407"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4568549
+project-id = 320215

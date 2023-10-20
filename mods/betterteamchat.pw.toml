@@ -1,0 +1,13 @@
+name = "BetterTeamChat"
+filename = "BetterTeamChat-1.1.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40f66e2f05d0fcd8af562e9fb9a01b6336396879"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3991370
+project-id = 627804

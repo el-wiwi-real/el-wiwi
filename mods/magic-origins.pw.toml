@@ -1,0 +1,13 @@
+name = "Magic Origins"
+filename = "magic_origins v0.3.5 1.19-1.19.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab25bcbb4e49f40e02c2d0cbae519ebe4764b246"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4717581
+project-id = 849514
