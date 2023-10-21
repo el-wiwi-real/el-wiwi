@@ -944,11 +944,6 @@ hash = "0fe97bc7bad0ed0608fe9fd0f676e3aad9d2e5b92d0a88fe596383e0d8a390fa"
 metafile = true
 
 [[files]]
-file = "mods/mcwifipnp.pw.toml"
-hash = "9eb1779e73271d847d62a6e9426bd4871b547d055c01ad5e3c65513ff9e942c1"
-metafile = true
-
-[[files]]
 file = "mods/midnightcontrols-extra.pw.toml"
 hash = "b99816a0334284178a169abd50474d7f5ddfbef9d6cf589f793769396de9a26a"
 metafile = true
