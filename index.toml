@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "fb930d1913df60fb68e47934d40baab5bbea41699baa8f5e70a62cc18ba0c71f"
+
+[[files]]
 file = "config/Adorn.json5"
 hash = "47a365fa027662269c68ddc7a750d2d01f8d337a1837a32cb41a54de9851c72c"
 
@@ -191,6 +195,22 @@ hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 [[files]]
 file = "config/deeperdarker.json5"
 hash = "8cfe72ec7a3a2b927a497379ba4830c0491fd07ca539b1435828ff34400a5a31"
+
+[[files]]
+file = "config/diggusmaximus/blacklist.json5"
+hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
+
+[[files]]
+file = "config/diggusmaximus/config.json5"
+hash = "4b72fed28a24f6d3f7b4ed0dc5f87c4449f6eade69bf365bb77ad44209d97a6e"
+
+[[files]]
+file = "config/diggusmaximus/excavatingshapes.json5"
+hash = "470a5630aa5b09d4d114ea2b222d5c96533f0b877c96f64e7f8fcfdebe8c09b4"
+
+[[files]]
+file = "config/diggusmaximus/grouping.json5"
+hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
 
 [[files]]
 file = "config/dustrial_decor.json"
@@ -710,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "9012673e65b555deb5e2fa77db9cc1b73c85eb312fa5e639f510e49ad08988d0"
+hash = "759019813912dc54d3e0f6b3bbb32cf3b18451bbe65b177725d7249ae12e6e0f"
 metafile = true
 
 [[files]]
@@ -760,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/energized-power.pw.toml"
-hash = "bf5e21165212afa94a1c8bfcb5062436d518103fa8daf8ad611742f4b95fcebf"
+hash = "5d325decefec0a22344aa73178b46836844d0b52120ba1cef08a08a78646e10c"
 metafile = true
 
 [[files]]
@@ -805,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
+hash = "337f8851d911a0c44d0df1268582a4a94cd69c5b4bc3ccea430f5af36b082bd0"
 metafile = true
 
 [[files]]
@@ -925,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "6c4adc5d53304fbeebbc90b8b6625cc1cb9ea3253ef95d966c75a82882b646bd"
+hash = "9eb1779e73271d847d62a6e9426bd4871b547d055c01ad5e3c65513ff9e942c1"
 metafile = true
 
 [[files]]
@@ -1050,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "397bf9fd4f192aaba17f0ac5d5b5765f47ae3974cef709823ba58e7cc0ca7a00"
+hash = "4d5205996498d18795ca8e997a24f0f8408e2741c5b74dc72da3a5e435355721"
 metafile = true
 
 [[files]]
@@ -1085,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "9998738e158a3c70344c63af68df941d64c1a23423a747e5ac52edd9dcb353b5"
+hash = "db1722efc7284b86d008b47a5d11230170fe79268213195b9ca6faca2794d304"
 metafile = true
 
 [[files]]
@@ -1095,12 +1115,12 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "9a5022174f1158ad923458ade493c3aad0cd8cc892a0a20a154908764d29f7b1"
+hash = "80b9078ef39c133105251c0c1c710cb2f8c165e1039faf72cf6bdc41f259576c"
 metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "81428549a12a1a12c32c5e5c52778ce84d010d3b976f4069602d03f230f9f84d"
+hash = "ae44fc8821ecc5c71588ebc7c4a84410edfecceb691c1135c19ed0ba956e699d"
 metafile = true
 
 [[files]]
