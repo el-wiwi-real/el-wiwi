@@ -46,7 +46,7 @@ hash = "7b10da0a5f08b0b9b2e0c9d5af6bbfbdacc31d229e023f91cc0939a03bfc986f"
 
 [[files]]
 file = "config/ae2/common.json"
-hash = "aa628a367d4426df6014faa4d8c387f80e63d3d97c49eaacd91606a6e0474fe8"
+hash = "4c8525cdc912f218d6bf6a1d4cd2215c0566e1459420228b000a529c8d5bda9e"
 
 [[files]]
 file = "config/appleskin.json5"
